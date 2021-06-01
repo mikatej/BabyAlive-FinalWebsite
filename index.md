@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Defining a Song’s Genre in Relation to its Lyrics
 
 You can use the [editor on GitHub](https://github.com/mikatej/BabyAlive-FinalWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
